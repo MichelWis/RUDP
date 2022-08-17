@@ -1,0 +1,9 @@
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\bin\Debug\net4.8\BasedRUDP.dll
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\bin\Debug\net4.8\BasedRUDP.pdb
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\obj\Debug\net4.8\BasedRUDP.csproj.AssemblyReference.cache
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\obj\Debug\net4.8\BasedRUDP.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\obj\Debug\net4.8\BasedRUDP.AssemblyInfoInputs.cache
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\obj\Debug\net4.8\BasedRUDP.AssemblyInfo.cs
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\obj\Debug\net4.8\BasedRUDP.csproj.CoreCompileInputs.cache
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\obj\Debug\net4.8\BasedRUDP.dll
+F:\dev\BasedRUDP\BasedRUDP\BasedRUDP\obj\Debug\net4.8\BasedRUDP.pdb

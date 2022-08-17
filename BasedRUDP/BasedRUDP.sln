@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasedRUDP", "BasedRUDP\BasedRUDP.csproj", "{20EA5435-719A-4BB7-9EA2-9B08ED7D012C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RUDPTesteyBoii", "RUDPTesteyBoii\RUDPTesteyBoii.csproj", "{5A32E0E5-5D6D-449D-81ED-7DB29BC87C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EA5435-719A-4BB7-9EA2-9B08ED7D012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EA5435-719A-4BB7-9EA2-9B08ED7D012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EA5435-719A-4BB7-9EA2-9B08ED7D012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EA5435-719A-4BB7-9EA2-9B08ED7D012C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A32E0E5-5D6D-449D-81ED-7DB29BC87C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A32E0E5-5D6D-449D-81ED-7DB29BC87C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A32E0E5-5D6D-449D-81ED-7DB29BC87C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A32E0E5-5D6D-449D-81ED-7DB29BC87C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C923D8-E8EC-44DE-BE9F-336562766D5E}
+	EndGlobalSection
+EndGlobal

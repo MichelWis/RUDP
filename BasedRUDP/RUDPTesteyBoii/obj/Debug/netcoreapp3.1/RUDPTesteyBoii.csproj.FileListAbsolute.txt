@@ -1,0 +1,17 @@
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\RUDPTesteyBoii.exe
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\RUDPTesteyBoii.deps.json
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\RUDPTesteyBoii.runtimeconfig.json
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\RUDPTesteyBoii.runtimeconfig.dev.json
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\RUDPTesteyBoii.dll
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\RUDPTesteyBoii.pdb
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\BasedRUDP.dll
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\bin\Debug\netcoreapp3.1\BasedRUDP.pdb
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.csproj.AssemblyReference.cache
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.AssemblyInfoInputs.cache
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.AssemblyInfo.cs
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.csproj.CoreCompileInputs.cache
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.csproj.CopyComplete
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.dll
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.pdb
+F:\dev\BasedRUDP\BasedRUDP\RUDPTesteyBoii\obj\Debug\netcoreapp3.1\RUDPTesteyBoii.genruntimeconfig.cache

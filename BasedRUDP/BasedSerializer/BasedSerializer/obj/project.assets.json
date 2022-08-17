@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "BasedRUDP/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/BasedRUDP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasedRUDP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasedRUDP/1.0.0": {
+      "type": "project",
+      "path": "../../BasedRUDP/BasedRUDP.csproj",
+      "msbuildProject": "../../BasedRUDP/BasedRUDP.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "BasedRUDP >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\spiel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\dev\\BasedRUDP\\BasedRUDP\\BasedSerializer\\BasedSerializer\\BasedSerializer.csproj",
+      "projectName": "BasedSerializer",
+      "projectPath": "F:\\dev\\BasedRUDP\\BasedRUDP\\BasedSerializer\\BasedSerializer\\BasedSerializer.csproj",
+      "packagesPath": "C:\\Users\\spiel\\.nuget\\packages\\",
+      "outputPath": "F:\\dev\\BasedRUDP\\BasedRUDP\\BasedSerializer\\BasedSerializer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\spiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "projectReferences": {
+            "F:\\dev\\BasedRUDP\\BasedRUDP\\BasedRUDP\\BasedRUDP.csproj": {
+              "projectPath": "F:\\dev\\BasedRUDP\\BasedRUDP\\BasedRUDP\\BasedRUDP.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net4.8",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

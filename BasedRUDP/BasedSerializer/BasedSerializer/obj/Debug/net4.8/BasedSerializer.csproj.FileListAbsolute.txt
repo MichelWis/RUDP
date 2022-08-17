@@ -1,0 +1,12 @@
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\bin\Debug\net4.8\BasedSerializer.dll
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\bin\Debug\net4.8\BasedSerializer.pdb
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.csproj.AssemblyReference.cache
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.AssemblyInfoInputs.cache
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.AssemblyInfo.cs
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.csproj.CoreCompileInputs.cache
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.dll
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.pdb
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\bin\Debug\net4.8\BasedRUDP.dll
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\bin\Debug\net4.8\BasedRUDP.pdb
+F:\dev\BasedRUDP\BasedRUDP\BasedSerializer\BasedSerializer\obj\Debug\net4.8\BasedSerializer.csproj.CopyComplete

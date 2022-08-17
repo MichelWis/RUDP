@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RUDPTesteyBoii/1.0.0": {
+        "dependencies": {
+          "BasedRUDP": "1.0.0"
+        },
+        "runtime": {
+          "RUDPTesteyBoii.dll": {}
+        }
+      },
+      "BasedRUDP/1.0.0": {
+        "runtime": {
+          "BasedRUDP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RUDPTesteyBoii/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasedRUDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
